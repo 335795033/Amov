@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>你好苏的简历</title>
+h1{font-family:"楷体";
+  size:32px;
+  color:#666;
+  weight:bold;
+  text-shadow: 0.1em 0.1em 0.2em black;
+  background-color: pink;
+   }
+p2{ font-size:22px;
+  position:fixed;
+  bottom:0px;
+  font-family:"楷体";
+  color: orange;
+  border-style: solid;
+  border-color: black;
+  border-right-color: red;}
+p1{ position:fixed;
+  bottom:0;
+   right:0;
+  font-family:"楷体";
+   }
+table td{text-align:center;
+font-family:"楷体";
+  font-size:20px;
+color:#00EC00}
+body {background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1524850210719&di=ffd9f81254005f305b1573be7d9f0c0e&imgtype=0&src=http%3A%2F%2Fimgstore.cdn.sogou.com%2Fapp%2Fa%2F100540002%2F554139.jpg);
+ background-position:100%;
+ background-attachment:fixed}
+ul1 li{list-style-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1524855303514&di=d702435471234daf94cad772cb17aa92&imgtype=0&src=http%3A%2F%2Fimg3.a0bi.com%2Fupload%2Fttq%2F20150524%2F1432474939993.jpg');}
+span{position:absolute;
+    left:700px;
+    top:400px;  
+ }
+ul2 li{list-style-image:url('http://s14.sinaimg.cn/middle/9d8aca49tc88d90734ded&690');}
+span1{position:absolute;
+    left:1100px;
+    top:400px;}
+<body>
+  <h1 align="center">个人简介</h1>
+  <p2>大家好啊！我是和你们一起<br />学习的王同学,然后我给自己<br />取的名字是你好苏，当然一<br />般也可以叫隔壁老王了-.-<br />然后这个个人简历呢是我自<br />己第一次做html文件了。之<br />前在慕课网看了几天，各种<br />代码有了解，但是好多都不会<br />用啊，更重要的是很多记不住。<br />不过不管怎样，我会加油的。<br />一起努力啊！</p2>
+
+  <table align="center" border="1" width="920" cellspacing="0">
+  <tr>
+    <th width="130">姓名</td>
+    <td width="270">小王同学</td>
+    <th width="130">性别</td>
+    <td width="270">男</td>
+    <th windt="100">自拍照</td>
+  </tr>
+  <tr>
+    <th>籍贯</td>
+    <td>重庆</td>
+    <th>民族</td>
+    <td>汉</td>
+    <td rowspan=7><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1524676766500&di=b2e76cad652d00af4568d3e2c2788235&imgtype=0&src=http%3A%2F%2Fimg5.duitang.com%2Fuploads%2Fitem%2F201411%2F12%2F20141112014133_UXfum.jpeg"height="160" width="120"title="没错！我就是这么帅！"></td>
+  </tr>
+  <tr>
+    <th>出生年月</td>
+    <td>1997.6.18</td>
+    <th>学历</td>
+    <td>本科</td>
+  </tr>
+  <tr>
+    <th>联系方式</td>
+    <td>15310516666</td>
+    <th>电子邮箱</td>
+    <td>1244147430@qq.com</td>
+  </tr>
+  <tr>
+    <th>技能</td>
+    <td colspan="3">LOL电一钻一</td>
+  </tr>
+  <tr>
+    <th>项目</th>
+    <td colspan="3">这就是第一个项目</td>
+  </tr>
+  <tr>
+    <th>个人微博</th>
+    <td colspan="3"><a href="https://weibo.com/2406734924/profile?topnav=1&wvr=6" litle="点击进入";target="_blank">一个大帅哥的微博</a></td>
+</tr>
+<tr>
+  <th>是否喜欢我</th>
+  <td colspan="3"><select>
+      <option value="喜欢">肯定啊</option>
+      <option value="很喜欢" selected>这还用问？</option>
+      <option value="非常喜欢">选第一个</option>
+      <option value="超级喜欢">楼上说得对</option>
+    </select>
+  </td>
+</tr>
+</table>
+  <p1>Copyright © 版权所有</p1>
+<span><p>我还具有以下优点:</p>
+  <ul1>
+    <li>可爱</li>
+    <li>单纯</li>
+    <li>专一</li>
+    <li>幽默</li>
+    <li>豪气</li>
+    <li>对女朋友好</li>
+</ul1>
+ </span>
+   <span1><p>当然缺点也有：</p>
+     <ul2>
+       <li>做事马马虎虎</li>
+       <li>喜欢调皮捣蛋</li>
+       <li>没有了没有了</li>
+       <li>没有了没有了</li>
+       <li>没有了没有了</li>
+       <li>没有了没有了</li>
+     </ul2>
+     </span2>
+  
+  
